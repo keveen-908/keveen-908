@@ -1,5 +1,6 @@
-## Oii eu sou o victor araujo, estudante de programção na estacio brasilia. <br> em busca de um estagio 
-curso da cisco para cybersecurity concluido
+Me chamo Thomas Keveen, Sou estudante de programação na Estácio Brasilia. <br>  
+Curso de CyberSecury Cisco - CONCLUÍDO <br>
+Executando projetos de CRUD no Exercito Brasileiro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivictoroff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,9 +15,9 @@ curso da cisco para cybersecurity concluido
  
 <div> 
   
-  <a href="https://instagram.com/santosvictoraraujo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "victoraraujosantos976@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-araujo-803979270" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/th_keveen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "thomaskeveen908@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   
 </div>
 
